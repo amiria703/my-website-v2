@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1050 1050" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<g transform="translate(25,25)" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-width="60">
+<circle cx="500" cy="500" r="500" fill="#fff" stroke="#000" stroke-width="60"/>
+</g>
+<path d="m448.75 740.41c-130.64 42.211-130.64-70.351-182.9-84.421m365.8 168.84v-108.9a88.054 94.833 0 0 0-24.561-73.446c82.044-9.8491 168.27-43.336 168.27-196.98a142.14 153.08 0 0 0-39.193-105.53 132.47 142.67 0 0 0-2.3516-106.09s-30.832-9.8491-102.16 41.648a349.6 376.52 0 0 0-182.9 0c-71.332-51.497-102.16-41.648-102.16-41.648a132.47 142.67 0 0 0-2.3516 106.09 142.14 153.08 0 0 0-39.193 106.37c0 152.52 86.225 186.01 168.27 196.98a88.054 94.833 0 0 0-24.561 72.602v108.9" fill="#fff" stroke="#000" stroke-width="53.481"/>
+</svg>
